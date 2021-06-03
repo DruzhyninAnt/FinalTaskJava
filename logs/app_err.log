@@ -1,0 +1,11 @@
+2021-06-03 20:32:35,832 ERROR c.BooksController [main] controller.exception.WrongValue: "щщшш "is wrong CHANGE PERCENT value. Must be numbers only!
+controller.exception.WrongValue: "щщшш "is wrong CHANGE PERCENT value. Must be numbers only!
+	at controller.BooksController.inputChangePrice(BooksController.java:228) [classes/:?]
+	at controller.BooksController.execute(BooksController.java:169) [classes/:?]
+	at MyFinalApp.main(MyFinalApp.java:8) [classes/:?]
+2021-06-03 20:43:22,537 ERROR c.BooksController [main] controller.exception.JsonFileNotFound: 
+File .\books.json_ not found or corrupt!  Bye!
+controller.exception.JsonFileNotFound: 
+File .\books.json_ not found or corrupt!  Bye!
+	at controller.BooksController.<init>(BooksController.java:120) [classes/:?]
+	at MyFinalApp.main(MyFinalApp.java:8) [classes/:?]

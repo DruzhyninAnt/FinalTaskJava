@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.12.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PracticalWork35/lib/jackson-core-2.12.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../PracticalWork35/lib/jackson-core-2.12.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../PracticalWork35/lib/jackson-core-2.12.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
